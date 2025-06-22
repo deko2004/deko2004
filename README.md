@@ -1,16 +1,125 @@
-## Hi there 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Hamoudi+%F0%9F%91%8B;Passionate+Software+Developer;From+Algeria+%F0%9F%87%A9%F0%9F%87%BF;Building+Digital+Experiences" alt="Typing SVG" />
+</p>
 
-<!--
-**deko2004/deko2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://hamoudicode.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-hamoudicode.netlify.app-36BCF7?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:hamodicode9@gmail.com">
+    <img src="https://img.shields.io/badge/📧_Gmail-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/deko2004">
+    <img src="https://img.shields.io/github/followers/deko2004?label=Follow&style=for-the-badge&color=36BCF7&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=deko2004&style=for-the-badge&color=36BCF7" alt="Profile views" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+```javascript
+const hamoudi = {
+  name: "Hamoudi",
+  location: "Algeria 🇩🇿",
+  role: "Full-Stack Developer",
+  languages: ["Arabic", "English"],
+  techStack: {
+    frontend: ["React", "Next.js", "TailwindCSS", "JavaScript", "TypeScript"],
+    backend: ["Node.js", "PHP", "Express.js"],
+    database: ["MongoDB", "MySQL"],
+    tools: ["Git", "VS Code", "Linux", "Figma"]
+  },
+  currentFocus: "Building scalable web applications",
+  passions: ["Clean Code", "User Experience", "Problem Solving"],
+  workingOn: "Full-stack projects with authentication & database integration",
+  funFact: "I debug with console.log and I'm not ashamed! 😄",
+  openFor: ["Freelance", "Collaborations", "Internships"],
+  motto: "Turning ideas into reality through code ✨"
+};
+```
+
+---
+
+## 🛠️ Skills & Tools
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg" width="50" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/tailwindlabs/tailwindcss/HEAD/.github/logo-mark.svg" width="50" alt="Tailwind CSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" alt="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" alt="MongoDB" />
+</p>
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" alt="Figma" />
+</p>
+
+
+
+---
+
+## 💼 Featured Projects
+
+Here are some of the projects I'm proud of. More coming soon!
+
+- 🔗 **[Anime Web App](https://another-anime-app.vercel.app/)** – Interactive anime web application with search functionality and user profiles.  
+  <sup>Tech: React, Tailwind, API</sup>
+
+- 🔗 **[TShop](https://tshopone.netlify.app/)** – Modern e-commerce platform for trendy fashion and accessories.  
+  <sup>Tech: React, Tailwind, ReactRouter</sup>
+
+- 🔗 **[D-Crypto App](https://jjtrading.site/)** – Real-time cryptocurrency tracking and portfolio management application.  
+  <sup>Tech: React, Tailwind, Chart.js, WebSocket, ExpressJs, MongoDB</sup>
+
+- 🔗 **[My Portfolio](https://hamoudicode.netlify.app/)** – Clean and modern personal website built with Next.js and TailwindCSS.
+
+- 🛠️ **Placeholder Project** – More exciting projects are under development!
+
+---
+
+## 🧠 What I'm Learning
+
+- 📌 Deepening my backend knowledge with **Node.js** and **Express**
+- 🚀 Building full-stack projects with authentication and database integration
+- 🔍 Exploring **SEO** & performance optimization in **Next.js**
+- 🎨 Advanced **React** patterns and state management
+
+---
+
+## 🧩 Services I Can Help With
+
+- **Front-End Web Development** (React / Next.js)
+- **Landing Page & Portfolio Design**
+- **Responsive UI** with TailwindCSS
+- **REST API Integration** (Axios, Fetch)
+- **Hosting & Deployment** (Vercel / Netlify)
+- **E-commerce Solutions**
+
+---
+
+## 📫 Let's Collaborate
+
+I'm open for **freelance projects**, **internships**, or **startup collaborations**.  
+If you have an idea and need a dev — just reach out! 🚀
+
+---
+
+## 💡 Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=github_dark)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer" />
+</p>
